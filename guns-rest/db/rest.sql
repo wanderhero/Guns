@@ -13,6 +13,9 @@ File Encoding         : 65001
 Date: 2017-08-23 15:38:50
 */
 
+DROP DATABASE IF EXISTS rest;
+CREATE DATABASE rest;
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
